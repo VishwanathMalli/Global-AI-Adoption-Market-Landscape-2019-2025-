@@ -1,3 +1,5 @@
+                  Portfolio Project | Python | SQL | Power BI | Data Analytics
+
 # Global AI Adoption & Market Landscape (2019–2025)
 
 **Python · MySQL · Power BI** &nbsp;|&nbsp; 6 Datasets · 14 Countries · 8 Industries · 517 Rows
