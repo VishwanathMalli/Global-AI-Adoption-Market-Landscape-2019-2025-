@@ -162,8 +162,11 @@ Global-AI-Adoption-Market-Landscape-2019-2025
 │       # 6-page interactive dashboard
 │
 └── Dashboard Snaps
-    └── Dashboard screenshots
-        # Images used in README preview
+│   └── Dashboard screenshots
+│       # Images used in README preview
+│
+└──Project Documentation
+    └──AI_Adoption_Project_Summary.pdf
 ```
 
 ---
