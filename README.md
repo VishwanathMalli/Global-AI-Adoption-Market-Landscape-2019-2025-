@@ -172,3 +172,30 @@ Global-AI-Adoption-Market-Landscape-2019-2025
 ---
 
 *Data: McKinsey · Stanford HAI · OECD · Statista · IDC · Amazon / Alphabet Annual Reports · till 2025*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Keywords
+
+Data Analytics Project  
+Data Analyst Portfolio  
+Python Data Analysis  
+SQL Data Analysis  
+Power BI Dashboard Project  
+Business Intelligence Dashboard  
+AI Market Analysis  
+End-to-End Data Analytics Pipeline  
+Data Cleaning with Python  
+Data Visualization with Power BI
