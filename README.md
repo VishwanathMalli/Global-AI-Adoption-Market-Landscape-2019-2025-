@@ -44,40 +44,40 @@ Built a complete pipeline — raw data ingestion, cleaning, EDA, SQL storage, an
 ## Dashboard — 5 Pages
 
 ### Index
-![Index](snaps/snap_index.png)
+![Index](Dashboard-snaps/Index.png)
 
 ---
 
 ### Page 1 — Executive Overview
-![Executive Overview](snaps/snap_exec.png)
+![Executive Overview](Dashboard-snaps/Executive-Overview.png)
 
 Global AI adoption rose from **33.9% → 73.4%** between 2019 and 2025. Total market revenue reached **$715.7B**. Only 45% of AI pilots reach production — a scaling gap visible across all industries.
 
 ---
 
 ### Page 2 — Geographic Analysis
-![Geographic Analysis](snaps/snap_geo.png)
+![Geographic Analysis](Dashboard-snaps/Geographic-Analysis.png)
 
 USA leads with **$326.8B** in total investment — 5× China. North America holds **55.5%** of global AI revenue. India improved AI readiness faster than any country: **+15.8 points** in 5 years.
 
 ---
 
 ### Page 3 — Industry Adoption Analysis
-![Industry Adoption](snaps/snap_industry.png)
+![Industry Adoption](Dashboard-snaps/Industry-Adoption-Analysis.png)
 
 **Technology** leads at 68% average adoption. **Healthcare** lags at 35% — Regulatory Compliance is its dominant barrier. Talent Gap is the #1 scaling barrier across all 8 industries.
 
 ---
 
 ### Page 4 — AI Platforms & Market Share
-![AI Platforms](snaps/snap_cloud.png)
+![AI Platforms](Dashboard-snaps/AI-Platforms-&-Market-Share.png)
 
 AWS leads in revenue ($107.6B) but losing market share (33% → 30%). **Azure growing fastest** at 44.3% avg YoY — Microsoft's OpenAI investment visible as a direct inflection point in 2023 data.
 
 ---
 
 ### Page 5 — Future Opportunity & Gap Analysis
-![Future Opportunity](snaps/snap_future.png)
+![Future Opportunity](Dashboard-snaps/Future-Opportunity-&-Gap-Analysis.png)
 
 7 countries — Singapore, Australia, Japan, Canada, South Korea, Germany, France — show AI readiness above 80 but underperforming market revenue. Projected 2025 global revenue: **$401B** (52.2% CAGR basis).
 
