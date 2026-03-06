@@ -16,7 +16,27 @@ Built a complete pipeline — raw data ingestion, cleaning, EDA, SQL storage, an
 
 ---
 
+Project Architecture
+
+Raw Data Sources
+    ↓
+Python Data Cleaning (pandas)
+    ↓
+Merged Analytical Tables
+    ↓
+MySQL Database
+    ↓
+SQL Analytical Queries
+    ↓
+Power BI Dashboard
+    ↓
+Project_documentation
+
 ## Tools & Skills
+
+
+---
+
 
 | | |
 |---|---|
