@@ -1,0 +1,1 @@
+# Global-AI-Adoption-Market-Landscape-2019-2025-
