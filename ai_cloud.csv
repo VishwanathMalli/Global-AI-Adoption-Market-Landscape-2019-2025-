@@ -1,0 +1,25 @@
+provider_name,parent_company,year,period,cloud_revenue_usd_bn,market_share_pct,yoy_growth_pct,data_source
+AWS,Amazon,2019,Full Year,25.7,33.0,37.0,Amazon Annual Report 2019
+AWS,Amazon,2020,Full Year,45.4,33.0,29.5,Amazon Annual Report 2020
+AWS,Amazon,2021,Full Year,62.2,33.0,37.1,Amazon Annual Report 2021
+AWS,Amazon,2022,Full Year,80.1,33.0,28.8,Amazon Annual Report 2022
+AWS,Amazon,2023,Full Year,90.8,32.0,13.3,Amazon Annual Report 2023
+AWS,Amazon,2024,Full Year,107.6,30.0,18.5,Amazon Annual Report 2024
+Microsoft Azure,Microsoft,2019,Full Year,13.8,18.0,68.0,Synergy Research / Microsoft Intelligent Cloud
+Microsoft Azure,Microsoft,2020,Full Year,20.4,20.0,47.8,Synergy Research / Microsoft Intelligent Cloud
+Microsoft Azure,Microsoft,2021,Full Year,31.8,22.0,55.9,Synergy Research / Microsoft Intelligent Cloud
+Microsoft Azure,Microsoft,2022,Full Year,40.9,22.0,28.6,Synergy Research / Microsoft Intelligent Cloud
+Microsoft Azure,Microsoft,2023,Full Year,51.0,23.0,24.7,Synergy Research / Microsoft Intelligent Cloud
+Microsoft Azure,Microsoft,2024,Full Year,71.8,25.0,40.8,Synergy Research / Microsoft Intelligent Cloud
+Google Cloud,Alphabet,2019,Full Year,8.9,9.0,52.6,Alphabet Annual Report 2019
+Google Cloud,Alphabet,2020,Full Year,13.1,9.5,47.2,Alphabet Annual Report 2020
+Google Cloud,Alphabet,2021,Full Year,19.2,9.0,46.6,Alphabet Annual Report 2021
+Google Cloud,Alphabet,2022,Full Year,26.3,10.0,37.0,Alphabet Annual Report 2022
+Google Cloud,Alphabet,2023,Full Year,33.1,11.0,25.9,Alphabet Annual Report 2023
+Google Cloud,Alphabet,2024,Full Year,43.2,12.0,30.5,Alphabet Annual Report 2024
+Others,Various,2019,Full Year,25.7,40.0,18.2,Synergy Research Group
+Others,Various,2020,Full Year,30.4,37.5,18.3,Synergy Research Group
+Others,Various,2021,Full Year,36.0,35.9,18.4,Synergy Research Group
+Others,Various,2022,Full Year,45.5,35.0,26.4,Synergy Research Group
+Others,Various,2023,Full Year,54.0,34.0,18.7,Synergy Research Group
+Others,Various,2024,Full Year,63.5,33.0,17.6,Synergy Research Group
