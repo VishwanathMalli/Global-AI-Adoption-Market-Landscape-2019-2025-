@@ -1,4 +1,4 @@
-                  Portfolio Project | Python | SQL | Power BI | Data Analytics
+                       Portfolio Project | Python | SQL | Power BI | Data Analytics
 
 # Global AI Adoption & Market Landscape (2019–2025)
 
