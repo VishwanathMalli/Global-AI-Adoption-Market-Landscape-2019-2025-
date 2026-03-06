@@ -148,4 +148,4 @@ Global-AI-Adoption-Market-Landscape-2019-2025
 
 ---
 
-*Data: McKinsey · Stanford HAI · OECD · Statista · IDC · Amazon / Alphabet Annual Reports · March 2026*
+*Data: McKinsey · Stanford HAI · OECD · Statista · IDC · Amazon / Alphabet Annual Reports · till 2025*
